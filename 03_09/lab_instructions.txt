@@ -21,16 +21,16 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 4.	Determining emphasis
 	     a.	Applies to: next.htm done
 	     b.	In the file next.htm examine the four pieces of advice in the Learning Web Design section. Determine how to best emphasize the first line in each paragraph. Think about ways that you could isolate that line or emphasize it in a way that denotes its importance to the rest of the paragraph. done
-         c.	In the last advice paragraph (“break things”), display the quotes in italics. In the same paragraph, emphasize the last line “Always challenge yourself” so that it’s importance is indicated.
-	     d.	In the list of resources below the advice section, make sure all top-level list items appear in bold.
+         c.	In the last advice paragraph (“break things”), display the quotes in italics. In the same paragraph, emphasize the last line “Always challenge yourself” so that it’s importance is indicated. done
+	     d.	In the list of resources below the advice section, make sure all top-level list items appear in bold. ??
 			
-5.	Displaying special characters
+5.	Displaying special characters done
 	     a.	Applies to: reference.htm
 	     b.	Scroll down and find the table that displays common named character entities.
 	     c.	Preview the page in a browser, and using the table as a reference, add the appropriate entity into the first table cell to provide an example of that character.
 	     d.	In the definition for Elements, wrap the word "tags" in quotes using a left and right quote special character.
 			
-6.	Inserting Images
+6.	Inserting Images done
 	     a.	Applies to: Intro.htm
 	     b.	Examine the existing image at the top of the page. Note the class “flowRight” which is used by CSS to control styling. You’ll learn more about this in the chapter on CSS.
 	     c.	Scroll down until you locate the paragraph “Shortly After the 1.0 specification…” At the beginning of that paragraph insert an image that:
